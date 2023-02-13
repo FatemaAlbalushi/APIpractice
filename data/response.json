@@ -1,0 +1,26 @@
+{
+  "destination_addresses": [
+    "Washington, DC, USA"
+  ],
+  "origin_addresses": [
+    "New York, NY, USA"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "226 mi",
+            "value": 363634.0
+          },
+          "duration": {
+            "text": "3 hours 51 mins",
+            "value": 13853.0
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}
