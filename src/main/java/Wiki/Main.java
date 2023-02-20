@@ -15,7 +15,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // Prompt the user to enter a topic to search for
-        System.out.println("Enter a topic to search for on Wikipedia: ");
+        System.out.println("Enter a topic to oman for on Wikipedia: ");
         Scanner scanner = new Scanner(System.in);
         String topic = scanner.nextLine();
 
