@@ -32,11 +32,7 @@ public class Main {
                 .url(urlBuilder.build())
                 .get()
                 .build();
-//        try (Response response = client.newCall(request).execute()) {
-//            System.out.println(response.body().string());
-//        } catch (IOException e) {
-//            throw new RuntimeException(e);
-//        }
+
 
         FileReader reader = null;
         try {
@@ -48,7 +44,6 @@ public class Main {
             String durationText = (String) duration.get("text");
 
             System.out.println("duration: " + durationText);
-            //  System.out.println(map);
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
