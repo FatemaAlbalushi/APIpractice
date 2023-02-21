@@ -15,14 +15,23 @@ import java.util.UUID;
  */
 public class FileManager {
 
-    private final String dataDirectoryPath;
+    private String dataDirectoryPath;
 
     /**
      * Creates a new instance of the FileManager class.
      */
     public FileManager() {
-        this.dataDirectoryPath = "data";
+        this.dataDirectoryPath = "data/CatImages";
     }
+
+    public void setDataDirectoryPath(String dataDirectoryPath) {
+        this.dataDirectoryPath = dataDirectoryPath;
+    }
+
+    public String getDataDirectoryPath() {
+        return dataDirectoryPath;
+    }
+
 
     /**
      * Creates the data directory if it does not exist.
@@ -67,5 +76,7 @@ public class FileManager {
             fos.write(imageBytes);
         }
     }
+
+
 }
 
