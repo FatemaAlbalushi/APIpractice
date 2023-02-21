@@ -24,6 +24,11 @@ public class FileManager {
         this.dataDirectoryPath = "data/CatImages";
     }
 
+
+    /**
+     * this class  is used to set the DataDirectoryPat
+     * @param dataDirectoryPath
+     */
     public void setDataDirectoryPath(String dataDirectoryPath) {
         this.dataDirectoryPath = dataDirectoryPath;
     }
