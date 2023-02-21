@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2514308a-e2d0-44e1-a9d8-27b6f40bf4b2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/49d3e57e-5f94-43be-80f9-eb103dc6ee06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/7b1994e1-46c8-4b9f-a531-b5b2c6cacb4b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/eea4169b-9b77-432b-bbc3-1f77e81cf077.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CatAPI/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CatAPI/FileManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CatAPI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CatAPI/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CatAPI/FileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CatAPI/FileManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CatAPI/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CatAPI/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
